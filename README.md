@@ -1,4 +1,4 @@
-# headless_dectector
+# headless_detector
 Headless Browser Detection
 
 This project contains JavaScript code designed to detect headless browsers by analyzing various browser behaviors and anomalies. Headless browsers, often used for automation and scraping, can exhibit different characteristics compared to regular browsers with graphical user interfaces. By leveraging these differences, this code aims to identify potential headless browser activity.
